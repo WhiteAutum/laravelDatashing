@@ -1,0 +1,21 @@
+{
+  "name": "myweb",
+  "description": "",
+  "main": "",
+  "authors": [
+    "843555225 <843555225@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/WhiteAutum/laravelDatashing",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+   "dependencies": {
+
+
+  },
+}
